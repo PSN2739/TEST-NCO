@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<?!=include('css')?>
+
+</head>
+<body style="margin-top:2%">
+
+
+
+
+<center>
+      <img src="https://img2.pic.in.th/pic/55e3ca74d92f65d9151936fd4bd277ef.png" style="width:200px; height:auto; padding-bottom: 10px; ">  
+               <p class="title-sm text-center section-subtitle" id="category-label"> Army Non Commissioned Officer School</p>
+          <h2 class="headline-md text-center section-title">
+            Tactical Studies Section<span class="span has-after">แผนกยุทธวิธี</span>
+          </h2>
+      </center>
+
+        <!--Grid-->
+<section class="section category has-bg-image" aria-labelledby="category-label" style="padding-bottom: 30px;padding-top: 30px;">
+                <div class="container">
+          <ul class="grid-list">
+
+<!-- ----------------1------------------- -->
+            <li id="btn1">
+              <div class="card category-card">
+                <div class="card-icon">
+                  <img src=" https://img5.pic.in.th/file/secure-sv1/11e34716331f210f51.png" width="72" height="72" loading="lazy" alt="Data Science icon">
+                </div>
+
+                <div>
+                  <h3 class="title-lg"><a href="https://script.google.com/macros/s/AKfycbxirvO4YYGYxdm4YSHo4VaJ6QooPM2sXka-3_Rkn2VgI-wZitdqS6Rij-lLHr7l1KQ7/exec" target="_blank"> การทำงาน ปลย. เอ็ม 16 เอ 2</h3>
+                  <!-- <p class="title-sm">M16A2</p> -->
+                </div>
+                <a></a>
+              </div>
+            </li>
+<!-- ----------------2------------------- -->
+
+        <li id="btn2">
+              <div class="card category-card">
+                <div class="card-icon">
+                  <img src="https://img2.pic.in.th/pic/17cf7cbaa25038070.png" width="72" height="72" loading="lazy" alt="UI/UX Design icon">
+                </div>               
+                  <h3 class="title-lg"><a href="https://script.google.com/macros/s/AKfycbxsFh8noGOG8JneZMsxHiIXoXcdh1NpqyKdlL2IFnZJs0OnXUL9H3GHc23kqQjjZn1R/exec" 
+                  target="_blank"> เรื่อง รูปขบวน หมู่ ปล.</a></h3>                                            
+              </div>
+            </li>
+<!-- ----------------3------------------- -->
+         <li id="btn3">
+              <div class="card category-card">
+
+                <div class="card-icon">
+                  <img src="https://img5.pic.in.th/file/secure-sv1/7b7683789afe3e8c0.png" width="72" height="72" loading="lazy" alt="Modern Physics icon">
+                </div>
+
+                <div>
+                   <h3 class="title-lg"><a href="https://script.google.com/macros/s/AKfycbynpAmonEQ46mA9wUOAJy46ycKEvL_2tXi-9rrE7JjPXpNxS9Bebtg-cBRotN-PalBu/exec" 
+                  target="_blank"> การสร้างภูมิประเทศจำลองในภูมิประเทศ</a></h3>                                            
+              </div>
+            </li>
+            </li>
+<!-- ----------------------------------- -->
+<!-- ----------------4------------------- -->
+            <li id="btn1">
+              <div class="card category-card">
+                <div class="card-icon">
+                  <img src=" https://img5.pic.in.th/file/secure-sv1/210f8767ddb59d21a.png" width="72" height="72" loading="lazy" alt="Data Science icon">
+                </div>
+
+                <div>
+                  <h3 class="title-lg">เทคนิคการเคลื่อนที่</h3>
+                  <!-- <p class="title-sm">MOUT</p> -->
+                </div>
+                <a></a>
+              </div>
+            </li>
+<!-- -----------------5------------------ -->
+
+        <li id="btn2">
+              <div class="card category-card">
+                <div class="card-icon">
+                  <img src="https://img2.pic.in.th/pic/3daa81787e492b44e.png" width="72" height="72" loading="lazy" alt="UI/UX Design icon">
+                </div>               
+                  <h3 class="title-lg"><a href="" 
+                  target="_blank"> แบบฝึกทำการรบ</a></h3>                                            
+              </div>
+            </li>
+<!-- -----------------6------------------ -->
+         <li id="btn3">
+              <div class="card category-card">
+
+                <div class="card-icon">
+                  <img src="https://img5.pic.in.th/file/secure-sv1/6a1add8d0070cbe4f.png" width="72" height="72" loading="lazy" alt="Modern Physics icon">
+                </div>
+
+                <div>
+                   <h3 class="title-lg"><a href="" 
+                  target="_blank"> ทัศนสัญญาณ</a></h3>                                            
+              </div>
+            </li>
+            </li>
+<!-- ----------------------------------- -->
+
+<!-- ---------------7-------------------- -->
+            <li id="btn1">
+              <div class="card category-card">
+                <div class="card-icon">
+                  <img src=" https://img2.pic.in.th/pic/4886ceea0737c2ba3.png" width="72" height="72" loading="lazy" alt="Data Science icon">
+                </div>
+
+                <div>
+                  <h3 class="title-lg">เครื่องกีดขวาง</h3>
+                  <!-- <p class="title-sm">MOUT</p> -->
+                </div>
+                <a></a>
+              </div>
+            </li>
+<!-- ---------------8-------------------- -->
+
+        <li id="btn2">
+              <div class="card category-card">
+                <div class="card-icon">
+                  <img src="https://img5.pic.in.th/file/secure-sv1/5c350eec19cbaca32.png" width="72" height="72" loading="lazy" alt="UI/UX Design icon">
+                </div>               
+                  <h3 class="title-lg"><a href="" 
+                  target="_blank"> ป้อมสนาม</a></h3>                                            
+              </div>
+            </li>
+<!-- ---------------9-------------------- -->
+         <li id="btn3">
+              <div class="card category-card">
+
+                <div class="card-icon">
+                  <img src="https://img2.pic.in.th/pic/106899b68aa1e5fa8a.png" width="72" height="72" loading="lazy" alt="Modern Physics icon">
+                </div>
+
+                <div>
+                   <h3 class="title-lg"><a href="" 
+                  target="_blank"> การตั้งรับ</a></h3>                                            
+              </div>
+            </li>
+            </li>
+<!-- ----------------------------------- -->
+
+          </ul>
+        </div>
+      </section>
+
+
+
+
+
+ <!--- Footer-->
+<section>
+<footer class="footer has-bg-image">
+<br/>
+    <div class="footer-bottom">
+      <div class="container">
+
+        <h2 class="copyright">
+           © Copyright 2023 | พัฒนาโดย ร.อ.พิษณุ ปิ่นชาติ
+        </h2>
+
+      </div>
+    </div>
+  </footer>
+</section>
+
+
+
+</body>
+</html>
